@@ -25,7 +25,7 @@ Pregunta 4 de la segunda practica calificada
   ```
   3.Ejecutar index.py
   ```console
-    python3 index.py
+    python3 main.py
  ```
  4.Al cerrar la ventana pulsando el botón 'x' se mostrara el siguiente gráfico 
  
