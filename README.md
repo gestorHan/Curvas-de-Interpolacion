@@ -1,5 +1,4 @@
 # Curvas-de-Interpolacion
-Pregunta 4 de la segunda practica calificada 
 
 # Instrucciones de ejecución
 0. Cambiar la terminal a la carpeta donde se realizara la descarga y clonar el repositorio
